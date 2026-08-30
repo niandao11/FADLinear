@@ -1,0 +1,6 @@
+numpy==1.26.4
+pandas==2.2.3
+ptflops==0.7.5
+PyWavelets>=1.4.0
+scikit-learn==1.6.1
+torch==2.6.0
